@@ -42,8 +42,8 @@ float lightValue;
 float pressureValue;
 Serial myPort;
 ///
-static String OAuthConsumerKey = "3UHphTq4m70LZmQIwF8MA4AvV";
-static String OAuthConsumerSecret = "HsBXC6Sd78gmEWlm9MBAOG42j48t26cwFyRZ096kGWSH5Vv02A";
+static String OAuthConsumerKey = "CENSORED";
+static String OAuthConsumerSecret = "CENSORED";
 
 // This is where you enter your Access Token info
 static String AccessToken = "CENSORED";
