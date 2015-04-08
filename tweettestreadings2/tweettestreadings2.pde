@@ -46,8 +46,8 @@ static String OAuthConsumerKey = "3UHphTq4m70LZmQIwF8MA4AvV";
 static String OAuthConsumerSecret = "HsBXC6Sd78gmEWlm9MBAOG42j48t26cwFyRZ096kGWSH5Vv02A";
 
 // This is where you enter your Access Token info
-static String AccessToken = "3145823745-J0Yvxg2Ftzpvp4MXLJBgquFhevGQc5qw5G1ctGY";
-static String AccessTokenSecret = "a1ZullkUmcoI7LMV3dm7eybkMUYgviSoGTxHtCwM66JSG";
+static String AccessToken = "CENSORED";
+static String AccessTokenSecret = "CENSORED";
 
 // Just some random variables kicking around
 
